@@ -1,24 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Graciela 👋
 
-<!--
-**GracielaLopezRosson/GracielaLopezRosson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on small ML projects to improve my portfolio
+- 🌱 I’m currently learning "Artificial Intelligence (AI) for Earth Monitoring (with EUMETSAT)" at
+<a href="https://www.futurelearn.com/courses/artificial-intelligence-for-earth-monitoring/about.html">FutureLearn
+- 💬 Ask me about Space, Data Science, Astronomy, ML/AI...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: she/her/ella
+
+<!---
 - ⚡ Fun fact: ...
 -->
-
-
-![Graci's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GracielaLopezRosson&&layout=compact&show_icons=true&theme=radical)
-
 ![Graci's GitHub stats](https://github-readme-stats.vercel.app/api/?username=GracielaLopezRosson&show_icons=true&theme=radical)
+![Graci's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GracielaLopezRosson&&layout=compact&show_icons=true&theme=radical)
 
 
 
