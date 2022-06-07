@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-![Graci's GitHub stats](https://github-readme-stats.vercel.app/api?username=GracielaLopezRosson&show_icons=true&theme=radical)
+![Graci's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GracielaLopezRosson&show_icons=true&theme=radical)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=GracielaLopezRosson&repo=github-readme-stats)](https://github.com/GracielaLopezRosson/github-readme-stats)
+
