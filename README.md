@@ -18,4 +18,7 @@ Here are some ideas to get you started:
 
 ![Graci's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GracielaLopezRosson&show_icons=true&theme=radical)
 
+![Graci's GitHub stats](https://github-readme-stats.vercel.app/api/?username=GracielaLopezRosson&show_icons=true&theme=radical)
+
+
 
